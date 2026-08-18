@@ -8,3 +8,4 @@ Roque Medin N. Nicolas
 # Quarter 1
 
 ## Activities
+[Computational Thinking Exercise](./q1/ctskillsMagnesiumNicolas.md)
