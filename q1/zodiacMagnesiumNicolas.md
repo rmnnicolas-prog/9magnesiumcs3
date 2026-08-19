@@ -28,7 +28,7 @@ else:
     print("Your Chinese Zodiac Sign is: ", zodiac[i])
 ```
 # Screenshots
-![Output 1]()
+![Output 1](https://github.com/rmnnicolas-prog/9magnesiumcs3/blob/080fd895360508e54730e0f4729073908ee884eb/q1/Images/RatZodiac.png)
 
 ![Output 2])
 
