@@ -30,8 +30,8 @@ else:
 # Screenshots
 ![Output 1](https://github.com/rmnnicolas-prog/9magnesiumcs3/blob/080fd895360508e54730e0f4729073908ee884eb/q1/Images/RatZodiac.png)
 
-![Output 2])
+![Output 2](https://github.com/rmnnicolas-prog/9magnesiumcs3/blob/a39cc91c8ab45a5ffb435d46c2b401c14f83d107/q1/Images/GoatZodiac.png)
 
-![Output 3]()
+![Output 3](https://github.com/rmnnicolas-prog/9magnesiumcs3/blob/a39cc91c8ab45a5ffb435d46c2b401c14f83d107/q1/Images/DragonZodiac.png)
 
-![Output 4]()
+![Output 4](https://github.com/rmnnicolas-prog/9magnesiumcs3/blob/a39cc91c8ab45a5ffb435d46c2b401c14f83d107/q1/Images/InvalidZodiac.png)
