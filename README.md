@@ -9,4 +9,5 @@ Roque Medin N. Nicolas
 
 ## Activities
 [Computational Thinking Exercise](./q1/ctskillsMagnesiumNicolas.md)
+
 [Chinese Zodiac](./q1/zodiacMagnesiumNicolas.md)
