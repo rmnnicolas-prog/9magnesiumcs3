@@ -27,3 +27,11 @@ else:
     i = (birth_year - 1900) % 12
     print("Your Chinese Zodiac Sign is: ", zodiac[i])
 ```
+# Screenshots
+![Output 1]()
+
+![Output 2])
+
+![Output 3]()
+
+![Output 4]()
