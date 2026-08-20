@@ -13,3 +13,5 @@ Roque Medin N. Nicolas
 [Chinese Zodiac Documentation](./q1/zodiacMagnesiumNicolas.md)
 
 [Chinese Zodiac Code](./q1/zodiacMagnesiumNicolas.py)
+
+[ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
