@@ -21,7 +21,7 @@ An InventoryItem represents an item that is stored in the player’s inventory. 
 ## Methods
 | Method | Description |
 |---|---|
-|addItem(amount:int |Adds a number of items into the inventory |
+|addItem(amount:int) |Adds a number of items into the inventory |
 |useItem() |Uses the item and decreases the quantity of the item|
 |displayInfo() |displays the information of the item |
 ## Class Diagram
