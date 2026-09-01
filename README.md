@@ -15,3 +15,5 @@ Roque Medin N. Nicolas
 [Chinese Zodiac Code](./q1/zodiacMagnesiumNicolas.py)
 
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
+[SG4 - Understanding Classes and Objects](q1/classObjectUML.md)
