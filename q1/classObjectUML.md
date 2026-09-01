@@ -25,7 +25,7 @@ An InventoryItem represents an item that is stored in the player’s inventory. 
 |useItem() |Uses the item and decreases the quantity of the item|
 |displayInfo() |displays the information of the item |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](Images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 
