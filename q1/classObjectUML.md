@@ -38,3 +38,6 @@ I think that ItemName is the most important property because it shows the player
 ### Which method is the most useful? Why?
 
 UseItem is the most useful method as it allows the player to actually use the item from their inventory.
+
+## Design Revision
+No major changes were needed from my original design.
