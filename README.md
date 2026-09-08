@@ -16,4 +16,8 @@ Roque Medin N. Nicolas
 
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
-[SG4 - Understanding Classes and Objects](q1/classObjectUML.md)
+[SG4 - Understanding Classes and Objects](q1/classImplementation.py)
+
+[OOPAct - Class Attributes and Methods](q1/classAttributesMethods.md)
+
+[OOPAct - Class Implementation](q1/classObjectUML.md)
