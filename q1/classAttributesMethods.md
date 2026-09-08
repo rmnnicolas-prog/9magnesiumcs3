@@ -12,18 +12,20 @@ Describe any changes made to your original class.
 | quantity| int| Private| Should only be changed by the item's methods|
 | price| double| Private| Prevents the price from being changed directly|
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](Images/classDiagramSG5.png)
 ## Python Implementation
 
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](Images/classTestRun.png)
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](Images/objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
 I the quantity attribute private because it should only be changed by the methods like useItem() or addItem().
 ### Which method changes the state of your object?
 The useItem() method changes the state of my object. It changes the quantity by decreasing the item by one when it is used.
 ### How did your two objects demonstrate that instances are independent?
+My two objects are Health Potion and Iron Sword when i used useItem() on Health Potion, the quantity changed from 5 to 4 while while Iron Sword's quantity stayed at 1.
 ### What is the difference between your class diagram and your object diagram?
+The class diagram is the blueprint of the class while onject diagram shows the actual objects created from the class and their values.
