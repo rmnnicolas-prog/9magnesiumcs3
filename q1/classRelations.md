@@ -17,7 +17,7 @@ Explanation: The Inventory class is connected to the inventoryItem class because
 Multiplicity: Inventory 1 ───────── 0..* inventoryItem
 Explanation: One Inventory can contain zero or multiple inventoryItems
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](Images/classRelationshipDiagram.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
