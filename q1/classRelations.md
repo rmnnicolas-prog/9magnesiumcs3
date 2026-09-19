@@ -4,17 +4,18 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
 Class: inventoryItem
+
 Description: An InventoryItem represents an item that is stored in the player’s inventory. It stores information about the item and can perform actions involving it.
 ## New Related Class
-Class: 
-Description:
+Class: Inventory
+Description: It represents the player's collection of items. It includes the item's name, description, and whether it can be used.
 ## Association
-Relationship:
-Explanation:
+Relationship: Inventory contains inventoryItem
+Explanation: The Inventory class is connected to the inventoryItem class because an inventory can hold multiple items.
 ## Multiplicity
 
-Multiplicity:
-Explanation:
+Multiplicity: Inventory 1 ───────── 0..* inventoryItem
+Explanation: One Inventory can contain zero or multiple inventoryItems
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
