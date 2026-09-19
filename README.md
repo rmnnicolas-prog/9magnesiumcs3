@@ -21,3 +21,8 @@ Roque Medin N. Nicolas
 [OOPAct - Class Attributes and Methods](q1/classAttributesMethods.md)
 
 [OOPAct - Class Implementation](q1/classImplementation.py)
+
+[OOPAct 3 - My OOP Seed System](q1/classRelations.md)
+
+[OOPAct 3 - Class Relationships Implementation](q1/classRelationships.py)
+
