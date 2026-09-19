@@ -21,12 +21,17 @@ Explanation: One Inventory can contain zero or multiple inventoryItems
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](Images/relationshipTestRun.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](Images/objectRelationshipDiagram.png)
 ## Analysis
 ### What is the association between your two classes?
+An Inventory can store multiple inventoryItems that are added to it.
 ### What multiplicity did you choose and why?
+I chose the zero or more (0..*) multiplicity because and inventory can be empty or hold many items.
 ### How did you implement the relationship in Python?
+I used a list called items inside the Inventory class. The addItem() method adds an InventoryItem object to the list. This stores the actual objects instead of just their names.
 ### Why did you store an object reference instead of copying its data?
+So the inventory can access and use the item's methods and current information.
 ### If your relationship uses many, why is a list appropriate?
+It is appropriate because it can store multiple item objects at the same time.
