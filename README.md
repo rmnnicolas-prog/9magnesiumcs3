@@ -26,3 +26,5 @@ Roque Medin N. Nicolas
 
 [OOPAct 3 - Class Relationships Implementation](q1/classRelationships.py)
 
+[OOPAct 4 - My OOP Seed System](q1/advancedRelationships.md)
+
