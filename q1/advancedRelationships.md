@@ -1,7 +1,7 @@
 # Advanced Class Relationships
 ## Previous Activities
 [classAttrib](classAttributesMethods.md)
-[classRel](classRelationships.md)
+[classRel](classRelations.md)
 ## Existing System Description:
 A game inventory system that manages different items. The inventoryItem stores information about each item while the Inventory stores them.
 ## Inheritance Relationship
