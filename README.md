@@ -28,3 +28,5 @@ Roque Medin N. Nicolas
 
 [OOPAct 4 - My OOP Seed System](q1/advancedRelationships.md)
 
+[OOPAct 4 - Advanced Relationships Implementation](q1/advancedRelationships.py)
+
