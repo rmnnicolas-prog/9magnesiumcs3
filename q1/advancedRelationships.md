@@ -6,8 +6,8 @@
 A game inventory system that manages different items. The inventoryItem stores information about each item while the Inventory stores them.
 ## Inheritance Relationship
 Parent: inventoryItem
-Child: Iron Sword
-Explanation: An iron sword is an inventoryItem. It can reuse the attributes and methods of InventoryItem, but will also have its own damage attribute.
+Child: Weapon
+Explanation: An weapon is an inventoryItem. It can reuse the attributes and methods of InventoryItem, but will also have its own damage attribute.
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
