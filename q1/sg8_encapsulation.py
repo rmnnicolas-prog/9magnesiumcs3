@@ -1,5 +1,5 @@
 class BankAccount:
-def__init__(self, account_number, balance):
+def __init__(self, account_number, balance):
     self.__acount_number = account_number
     self.__balance = balance
 
