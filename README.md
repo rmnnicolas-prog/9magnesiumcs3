@@ -30,3 +30,7 @@ Roque Medin N. Nicolas
 
 [OOPAct 4 - Advanced Relationships Implementation](q1/advancedRelationships.py)
 
+---
+# Quarter 2
+
+## Activities
