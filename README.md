@@ -34,3 +34,4 @@ Roque Medin N. Nicolas
 # Quarter 2
 
 ## Activities
+[Encapsulation Activity](q1/sg8_encapsulation.py)
