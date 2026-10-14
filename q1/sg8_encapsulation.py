@@ -1,14 +1,14 @@
 class BankAccount:
-def__init__(account_number, balance):
+def__init__(self, account_number, balance):
     self.__acount_number = account_number
-     self.__balance = balance
+    self.__balance = balance
 
 def set_account_number(self, account_number):
-  self._account_number = account_number
+    self._account_number = account_number
 
 @property
 def get_account_number(self):
-  return self._account_number
+    return self._account_number
 
 def set_balance(self, balance):
     if balance > -1:
@@ -18,7 +18,7 @@ def set_balance(self, balance):
 
 @property
 def get_balance(self):
-  return self.__balance
+    return self.__balance
 
 a1 = BankAccount(45764, 1000)
 
