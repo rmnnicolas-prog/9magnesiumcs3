@@ -16,3 +16,6 @@ def set_author(self, author):
 @property
 def get_author(self):
     return self.__author
+
+class Book(Publication):
+    def __init__(self, title, author, number_of_pages)
