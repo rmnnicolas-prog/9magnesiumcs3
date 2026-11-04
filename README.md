@@ -38,3 +38,6 @@ Roque Medin N. Nicolas
 
 [Inheritance Activity](q2/sg9_inheritance.py
 )
+
+[Method Overriding Activity](q2/methodoverriding.py
+)
