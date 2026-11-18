@@ -41,3 +41,9 @@ Roque Medin N. Nicolas
 
 [Method Overriding Activity](q2/methodoverriding.py
 )
+
+[Activity 1](q2/sg11_polymorphism_a1.py
+)
+
+[Activity 2](q2/sg11_polymorphism_a2.md
+)
